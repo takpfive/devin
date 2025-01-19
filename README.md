@@ -1,5 +1,3 @@
-# todo
-- [x] 六本木のおしゃれなバーを調べてください
 
 # profile
 Googleアカウント
@@ -10,4 +8,8 @@ Pass:Usudevi@1135
 # 指定サイト
 AI木曜会へのアクセスは、必ず
 https://fincs.jp/plan/6883693537748780257
-ここにお願いします。
+ここにお願いします。また、その際はGoogleアカウントでログインしてください。
+
+# Googleアカウント
+Mail:usutakudevin@gmail.com
+Pass:Usudevi@1135
