@@ -11,7 +11,6 @@
 
 出典: JISA「生成AI技術の社会的活用にかかる提言」(2024年10月31日)
 https://www.jisa.or.jp/public_info/press/tabid/3852/Default.aspx
-https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2023.html
 
 ### 1.2 産業界の対応状況
 - 情報サービス産業における課題認識
@@ -33,7 +32,6 @@ https://www.jisa.or.jp/public_info/press/tabid/3852/Default.aspx
 
 出典: IDC「FutureScape: Worldwide Generative Artificial Intelligence 2025 Predictions」(2024年10月発行)
 https://www.idc.com/jp/research/report-list?document=JPJ52153825
-https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year
 
 ### 2.2 産業界への影響
 - 新興企業の持続可能性への懸念
