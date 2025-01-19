@@ -100,5 +100,8 @@
 
 出典：
 1. PwCコンサルティング「生成AIに関する実態調査2023」
+   https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2023.html
 2. McKinsey "The State of AI in 2023: Generative AI's Breakout Year"
+   https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year
 3. 各社プレスリリース、IR資料、技術説明会資料
+   (各企業の公式サイトおよび上記文書内の個別URLを参照)

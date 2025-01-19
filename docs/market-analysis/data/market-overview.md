@@ -11,6 +11,7 @@
 - その他のAIツール (DALL-E, Midjourney): 4%以下の認知度
 
 出典: PwCコンサルティング「生成AIに関する実態調査2023」(2023年5月19日)
+https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2023.html
 
 ### 1.2 業種別の特徴
 - DX推進/IT関連部門: 最も高い関心と導入率
@@ -28,6 +29,7 @@
 - 地域差: 北米地域が最も高い導入率
 
 出典: McKinsey "The State of AI in 2023: Generative AI's Breakout Year"
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year
 
 ### 2.2 主要な活用分野（グローバル）
 - マーケティング・営業
